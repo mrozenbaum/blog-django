@@ -5,3 +5,7 @@ myvenv
 db.sqlite3
 /static
 .DS_STORE
+node_modules
+bower_components
+blog/migrations/*.py
+media/images
